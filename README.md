@@ -10,7 +10,7 @@
 **Study Club Kemoding** adalah klub belajar untuk membantu mahasiswa Sistem Informasi UNSIA mengenal, mempelajari, menganalisa, dan menulis kode program agar bisa dipakai untuk mengembangkan aplikasi. Aplikasi bisa berbasis web, mobile, desktop, dan lain-lain. Study Club ini akan dibina oleh Bapak **Azlan Irwan, S.Kom, M.Kom** selaku dosen program studi Sistem Informasi UNSIA. Untuk informasi lebih jauh, silahkan kunjungi sosial media kami. Selamat datang dan Selamat belajar!!
 
 ## Social Media🌏
-- Instagram
+- [Instagram](https://www.instagram.com/kemoding/)
 - Facebook
 - Discord
 

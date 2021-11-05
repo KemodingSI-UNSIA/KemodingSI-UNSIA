@@ -11,11 +11,11 @@
 
 ## Social Media🌏
 - [Instagram](https://www.instagram.com/kemoding/)
-- Facebook
+- [LinkedIn](https://www.linkedin.com/in/kemoding-unsia)
 - Discord
 
 ## SOON🔜:
-1. Web Development
+
 
 
 <!---
